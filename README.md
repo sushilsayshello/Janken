@@ -5,8 +5,8 @@ Welcome to the **Fancy Janken Game**! This project is an interactive and visuall
 ## Play the Game Online 🎉
 
 You can play the game directly in your browser by visiting the following link:
-
-[**Play the Fancy Janken Game!**](https://yourusername.github.io/yourrepository/janken.html)
+[
+[**Play the Fancy Janken Game!**](](https://sushilsayshello.github.io/Janken/)https://yourusername.github.io/yourrepository/janken.html)
 
 ## How to Play 🎲
 
@@ -29,7 +29,8 @@ You can play the game directly in your browser by visiting the following link:
 
 ## Screenshots 🖼️
 
-![Game Preview](https://yourimageurl.com/screenshot.png)
+![image](https://github.com/user-attachments/assets/9f3a6ad7-db3f-485e-b949-24601035305c)
+
 
 ## Technologies Used 🛠️
 
