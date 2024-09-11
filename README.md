@@ -1,12 +1,12 @@
-# Fancy Janken (Rock, Paper, Scissors) Game 🎮
+# Janken (Rock, Paper, Scissors) Game 🎮
 
-Welcome to the **Fancy Janken Game**! This project is an interactive and visually appealing web-based implementation of the classic **Rock, Paper, Scissors** game, also known as **Janken** in Japan. The game allows you to challenge the computer in a fun, simple, and competitive way. It's built using **HTML**, **CSS**, and **JavaScript**.
+Welcome to the ** Janken Game**! This project is an interactive and visually appealing web-based implementation of the classic **Rock, Paper, Scissors** game, also known as **Janken** in Japan. The game allows you to challenge the computer in a fun, simple, and competitive way. It's built using **HTML**, **CSS**, and **JavaScript**.
 
 ## Play the Game Online 🎉
 
 You can play the game directly in your browser by visiting the following link:
 [
-[**Play the Fancy Janken Game!**](](https://sushilsayshello.github.io/Janken/)https://yourusername.github.io/yourrepository/janken.html)
+[**Play the  Janken Game!**](](https://sushilsayshello.github.io/Janken/)https://yourusername.github.io/yourrepository/janken.html)
 
 ## How to Play 🎲
 
@@ -38,11 +38,3 @@ This project was built using:
 - **HTML** for structure.
 - **CSS** for styling and responsive layout.
 - **JavaScript** for game logic and interactivity.
-
-## Installation and Setup 💻
-
-To run this game locally on your machine:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
