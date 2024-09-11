@@ -5,7 +5,6 @@ Welcome to the ** Janken Game**! This project is an interactive and visually app
 ## Play the Game Online 🎉
 
 You can play the game directly in your browser by visiting the following link:
-[
 [**Play the  Janken Game!**](https://sushilsayshello.github.io/Janken/)
 
 ## How to Play 🎲
